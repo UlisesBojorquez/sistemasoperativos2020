@@ -12,10 +12,15 @@ main(int argc, char **argv)
     exit();
   }
   for(i=1; i<argc; i++)
+  
     if(atoi(argv[i])==1){
+
         printf(1, "No puedes borrar el init...\n");
+
     }else{
+
         kill(atoi(argv[i]));
+
     }
   exit();
 }

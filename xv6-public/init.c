@@ -20,7 +20,7 @@ main(void)
   dup(0);  // stderr
 
   for(;;){
-    printf(1, "Bienvenido se esta iniciando el init: sh...\n");
+    printf(1, "Bienvenido se esta iniciando el init: sh.....\n");
     pid = fork();
     if(pid < 0){
       printf(1, "init: fork failed\n");
