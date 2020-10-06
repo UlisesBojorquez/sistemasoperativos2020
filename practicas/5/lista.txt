@@ -1,0 +1,7 @@
+total 20
+-rw-r--r-- 1 gitpod gitpod   14 Sep 30 00:39 archivo.txt
+-rw-r--r-- 1 gitpod gitpod   28 Sep 30 00:44 copia2.txt
+-rw-r--r-- 1 gitpod gitpod   14 Sep 30 00:41 copia.txt
+drwxr-xr-x 2 gitpod gitpod 4096 Sep 30 00:48 dir
+-rw-r--r-- 1 gitpod gitpod    0 Sep 30 00:49 lista.txt
+drwxr-xr-x 2 gitpod gitpod 4096 Sep 30 00:47 litas
