@@ -34,7 +34,7 @@ int main(){
         int clientSocket=accept(sockfd, &clientAddress,&clientSize); //socket, direccion del cliente, tamaño direccion
 
         char c;
-        char *message="Hello desde gitpod";
+        char *message="Hello desde goorm";
         //while(read(clientaSocket, &c, 1)){
           //  printf("%c", c);
             
